@@ -1,0 +1,22 @@
+{
+  "name": "yzma",
+  "version": "1.0.0",
+  "description": "It's brilliant, brilliant, brilliant, I tell you! Genius, I say!",
+  "main": "index.js",
+  "bin": {
+    "yzma": "bin/yzma.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancsparks/yzma.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briancsparks/yzma/issues"
+  },
+  "homepage": "https://github.com/briancsparks/yzma#readme"
+}
