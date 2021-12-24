@@ -7,7 +7,8 @@
     "yzma": "bin/yzma.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "yzma": "zx bin/yzma.mjs"
   },
   "repository": {
     "type": "git",
