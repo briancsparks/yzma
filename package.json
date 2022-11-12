@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/briancsparks/yzma/issues"
   },
-  "homepage": "https://github.com/briancsparks/yzma#readme"
+  "homepage": "https://github.com/briancsparks/yzma#readme",
+  "dependencies": {
+    "zx": "^7.1.1"
+  }
 }
