@@ -4,11 +4,13 @@
   "description": "It's brilliant, brilliant, brilliant, I tell you! Genius, I say!",
   "main": "index.js",
   "bin": {
-    "yzma": "bin/yzma.js"
+    "yzma": "bin/yzma.js",
+    "yzma2": "bin/yzma.mjs"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "yzma": "zx bin/yzma.mjs"
+    "yzma": "zx bin/yzma.mjs",
+    "scratch": "bash ./bin/scratch.sh"
   },
   "repository": {
     "type": "git",
